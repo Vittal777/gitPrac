@@ -1,2 +1,2 @@
 #GIT PRACTICE
-Changes made directly in here, in Github.
+Changes made directly in Github.
